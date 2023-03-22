@@ -1,0 +1,7 @@
+{
+    "type": "esp32-fota-http",
+    "version": 2,
+    "host": "gitlab.com",
+    "port": 80,
+    "bin": "/mr1b/devicefirmware/-/blob/main/firmware.bin"
+}

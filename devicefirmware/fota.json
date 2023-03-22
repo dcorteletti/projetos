@@ -1,7 +1,7 @@
 {
     "type": "esp32-fota-http",
     "version": 2,
-    "host": "gitlab.com",
+    "host": "raw.githubusercontent.com",
     "port": 80,
-    "bin": "/mr1b/devicefirmware/-/blob/main/firmware.bin"
+    "bin": "/dcorteletti/projetos/master/devicefirmware/firmware.bin"
 }

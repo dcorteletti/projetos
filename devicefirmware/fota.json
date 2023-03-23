@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-http",
-    "version": 256,
+    "version": 1000,
     "host": "raw.githubusercontent.com",
     "port": 80,
     "bin": "/dcorteletti/projetos/master/devicefirmware/firmware.bin"
